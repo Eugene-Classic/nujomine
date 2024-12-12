@@ -1,2 +1,3 @@
 # nujomine
 nujomine
+--test
